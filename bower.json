@@ -1,0 +1,42 @@
+{
+  "name": "font-abel",
+  "version": "1.0.0",
+  "description": "Abel Web Font Package",
+  "main": [
+    "./css/abel.css",
+    "./font/*"
+  ],
+  "authors": [
+    "orianda <orianda@paan.de>"
+  ],
+  "license": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "keywords": [
+    "abel",
+    "abel-regular",
+    "webfont",
+    "web",
+    "font"
+  ],
+  "homepage": "https://github.com/orianda/font-abel",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

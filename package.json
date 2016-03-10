@@ -1,0 +1,46 @@
+{
+  "name": "font-abel",
+  "version": "1.0.0",
+  "description": "Abel Web Font Package",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orianda/font-abel.git"
+  },
+  "keywords": [
+    "abel",
+    "abel-regular",
+    "webfont",
+    "web",
+    "font"
+  ],
+  "author": "orianda <orianda@paan.de>",
+  "license": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/orianda/font-abel/issues"
+  },
+  "homepage": "https://github.com/orianda/font-abel#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-help": "^1.6.1",
+    "gulp-less": "^3.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "run-sequence": "^1.1.5"
+  }
+}
