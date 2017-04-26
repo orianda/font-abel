@@ -5,10 +5,10 @@ Abel web font package with font files, less, scss, and CSS.  Why? Because Google
 ## Use ##
 
 1. Use either NPM or Bower to install the abel package
-  ```sh
+  ```bash
   npm install font-abel --save
   ```
-  ```sh
+  ```bash
   bower install font-abel --save
   ```
 
