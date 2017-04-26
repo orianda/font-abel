@@ -4,20 +4,23 @@ Abel web font package with font files, less, scss, and CSS.  Why? Because Google
 
 ## Use ##
 
-1. Use Bower to install the abel package
+1. Use either NPM or Bower to install the abel package
+  ```sh
+  npm install font-abel --save
+  ```
   ```sh
   bower install font-abel --save
   ```
 
 2. Import the abel.less, abel.scss or abel.css file into your project
   ```css
-  @import: "../some/path/font-abel/css/abel.css";
+  @import "../some/path/font-abel/css/abel.css";
   ```
   ```less
-  @import: "../some/path/font-abel/less/abel.less";
+  @import "../some/path/font-abel/less/abel.less";
   ```
   ```scss
-  @import: "../some/path/font-abel/scss/abel";
+  @import "../some/path/font-abel/scss/abel";
   ```
 
 3. Override the Abel font path if nessesary 
